@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+openai
+google-generativeai
+python-dotenv
+Flask-SQLAlchemy
+requests
+gunicorn
+tqdm
